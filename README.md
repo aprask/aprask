@@ -11,7 +11,7 @@
 ## 🏆 Completed Projects
 - MeteorShell: Weather CLI (Spring Shell + Spring Batch)
 - Library Management System (JDBC + Swing)
-- Book Management System (Java)
+- Book Management System (Java + HTML/CSS + JavaScript)
 - Cargo Hold (Java + Swing)
 
 ## 🌱 Currently Learning
