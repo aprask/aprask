@@ -7,6 +7,7 @@
 - TaskForge: Task Manager API (Spring + React)
 - BookNest: Book Aggregator (Spring + React)
 - GameScout: Video Game Aggregator (Spring + React)
+- EMBox: Original Xbox Emulator (x86 Assembly + C)
 
 ## 🏆 Completed Projects
 - MeteorShell: Weather CLI (Spring Shell + Spring Batch)
