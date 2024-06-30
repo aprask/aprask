@@ -16,7 +16,7 @@
 - Cargo Hold (Java + Swing)
 
 ## 🌱 Currently Learning
-- Ruby on Rails
+- Go
 - Nginx
 - x86 Assembly
 
