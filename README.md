@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Andrew Praskala
 
 🏠 Born in New Jersey, now in North Carolina
+
 🎓 Pursuing a B.S. in Computer Science at UNC Charlotte
 
 ## 🚀 Current Projects
 - TaskForge: Task Manager API (Spring + React)
 - BookNest: Book Aggregator (Spring + React)
 - GameScout: Video Game Aggregator (Spring + React)
-- EMBox: Original Xbox Emulator (x86 Assembly + C)
+- EMBox: Sega Saturn Emulator (x86 Assembly + C)
 
 ## 🏆 Completed Projects
 - MeteorShell: Weather CLI (Spring Shell + Spring Batch)
@@ -16,9 +17,8 @@
 - Cargo Hold (Java + Swing)
 
 ## 🌱 Currently Learning
-- Go
-- Nginx
-- x86 Assembly
+- C++
+- Computer Architecture
 
 ## 💼 Professional Experience
 - Backend Developer at Astro AI
