@@ -19,6 +19,7 @@
 ## 🌱 Currently Learning
 - C++
 - Computer Architecture
+- KotORScript
 
 ## 💼 Professional Experience
 - Backend Developer at Astro AI
