@@ -6,7 +6,6 @@
 
 ## 🚀 Current Projects
 - Dauntless: A MUD game (C++)
-- BookNest: Book Aggregator (Spring + React)
 - GameScout: Video Game Aggregator (Spring + React)
 - EMBox: Sega Saturn Emulator (x86 Assembly + C)
 
