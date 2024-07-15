@@ -5,12 +5,13 @@
 🎓 Pursuing a B.S. in Computer Science at UNC Charlotte
 
 ## 🚀 Current Projects
-- TaskForge: Task Manager API (Spring + React)
+- Dauntless: A MUD game (C++)
 - BookNest: Book Aggregator (Spring + React)
 - GameScout: Video Game Aggregator (Spring + React)
 - EMBox: Sega Saturn Emulator (x86 Assembly + C)
 
 ## 🏆 Completed Projects
+- TaskForge: Task Manager REST API (Spring)
 - MeteorShell: Weather CLI (Spring Shell + Spring Batch)
 - Library Management System (JDBC + Swing)
 - Book Management System (Java + HTML/CSS + JavaScript)
@@ -18,8 +19,6 @@
 
 ## 🌱 Currently Learning
 - C++
-- Computer Architecture
-- KotORScript
 
 ## 💼 Professional Experience
 - Backend Developer at Astro AI
