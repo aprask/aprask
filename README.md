@@ -18,6 +18,8 @@
 
 ## 🌱 Currently Learning
 - C++
+- Computer Architecture
+- Embedded Systems
 
 ## 💼 Professional Experience
 - Backend Developer at Astro AI
