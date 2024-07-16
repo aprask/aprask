@@ -6,7 +6,7 @@
 
 ## 🚀 Current Projects
 - Dauntless: A MUD game (C++)
-- GameScout: Video Game Aggregator (Spring + React)
+- GameScout: Video Game Data Persister REST API (Spring + SQL)
 - EMBox: Sega Saturn Emulator (x86 Assembly + C)
 
 ## 🏆 Completed Projects
