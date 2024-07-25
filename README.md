@@ -5,8 +5,6 @@
 🎓 Pursuing a B.S. in Computer Science at UNC Charlotte
 
 ## 🚀 Current Projects
-- Dauntless: A MUD game (C++, Qt, C)
-- GameScout: Video Game Data Persister REST API (Spring + SQL)
 - EMBox: Sega Saturn Emulator (x86 Assembly + C)
 
 ## 🏆 Completed Projects
@@ -17,7 +15,6 @@
 - Cargo Hold (Java + Swing)
 
 ## 🌱 Currently Learning
-- C++
 - Computer Architecture
 - Embedded Systems
 
